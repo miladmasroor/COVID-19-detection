@@ -2,6 +2,13 @@
 
 During my educational pursuit, I had the incredible opportunity to partake in a 120-hour internship at a well-known Artificial Intelligence company. This immersive experience centered around the captivating realm of utilizing Deep Learning-Based Networks to diagnose COVID-19 through CT Scan Images. During the internship, I acquired invaluable knowledge and a profound understanding of the cutting-edge advancements in Machine Learning (ML) and Deep Learning (DL) technologies. 
 
+# System flow diagram
+
+The CT scan machine gives the CT scan image of a patient for the screening of COVID-19. The input image is passed through a CNN models that categorizes the image as COVID-19 positive or negative.
+
+![1](https://github.com/miladmasroor/COVID-19-detection/assets/79324919/c14ebd6e-138d-4ff2-a9f9-d0487c30e184)
+
+
 # Methodology:
 
 As illustrated in the figure below, the workflow for the early diagnosis of coronavirus through the analysis of lung CT scan images comprises three primary stages: data collection and description (Stage 1), data preparation (Stage 2), and the implementation (training) and evaluation of the proposed intelligent models (Stage 3).
